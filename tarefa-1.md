@@ -26,7 +26,7 @@ Hay 6 sublenguajes de SQL y un único lenguaje SQL.
          
 ## **RESTRICCIONES:**
   - *Restricción Clave Foránea*:
-     ![Error](Imagenes/IMG_20200302_105054_596.jpg)
+     ![Error](IMG_20200302_105054_596.jpg)
     - [CONSTRAINT <nombre-restricción>]         
         FOREING KEY (<atributos>)          
         REFERENCES <nombre-tabla-referenciada>          
@@ -38,7 +38,7 @@ Hay 6 sublenguajes de SQL y un único lenguaje SQL.
       [ON UPDATE CASCADE|*NO ACTION*|SET NULL|SET DEFAULT]     
 
       - Ejemplo: 
-        - ![Error](Imagenes/foto2.png)    
+        - ![Error](foto2.png)    
         - ALTERNATIVA (1 atributo): name NCHAR (80) PRIMARY KEY;      
         
   - **Borrar y Actualizar:**
