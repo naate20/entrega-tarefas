@@ -26,7 +26,7 @@ Hay 6 sublenguajes de SQL y un único lenguaje SQL.
          
 ## **RESTRICCIONES:**
   - *Restricción Clave Foránea*:
-     ![Error](Imagenes/IMG_20200302_105054_596.jpg)
+     ![Error](E:/DAM124/Bases de Datos/ApuntesGit/Imagenes/IMG_20200302_105054_596.jpg)
     - [CONSTRAINT <nombre-restricción>]         
         FOREING KEY (<atributos>)          
         REFERENCES <nombre-tabla-referenciada>          
