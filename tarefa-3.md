@@ -1,10 +1,10 @@
 # Tarefa 3
 
-![Error](Ejercicio1/creacionSchema.PNG)    
-![Error](Ejercicio1/comprobarCreacion.PNG)     
-![Error](Ejercicio1/comprobarDB_PrimeraTabla.PNG)     
-![Error](Ejercicio1/tabla2.PNG)    
-![Error](Ejercicio1/tabla3.PNG)    
+![Error](img/creacionSchema.PNG)    
+![Error](img/comprobarCreacion.PNG)     
+![Error](img/comprobarDB_PrimeraTabla.PNG)     
+![Error](img/tabla2.PNG)    
+![Error](img/tabla3.PNG)    
     
 > **Otra forma de crear la tabla de ubucacion sería:**    
 > CREATE TABLE ubicacion(  
@@ -20,26 +20,26 @@
 > );        
    
    
-![Error](Ejercicio1/tabla4.PNG)      
-![Error](Ejercicio1/tabla5.PNG)    
+![Error](img/tabla4.PNG)      
+![Error](img/tabla5.PNG)    
 > En la tabla profesor, decidí poner la experiencia como un entero porque es un número no un boolean (si o no).   
 > N_Grupo es el nnombre del grupo.   
 > N_Depratamento es el nombre del departamento.   
    
 
-![Error](Ejercicio1/alter1.PNG)   
+![Error](img/alter1.PNG)   
 >Ahora podemos hacer el alter de la tabla departamento para añadirle la clave foránea. No lo pude hacer antes porque aúyn no habí creado la tabla profesor.         
 ![Error](Tarefa3/tabla6.PNG)      
 ![Error](Tarefa3/tabla7.PNG)   
 > Otra forma de indicar que el atributo Nombre_Proyecto es único sería añadiendo la siguiente línea después de la declaración de todos los atributos:  
 > **UNIQUE (Nombre_Proyecto)**    
     
-![Error](Tarefa3/alter2.PNG)    
-![Error](Tarefa3/tabla8_9.PNG)    
+![Error](img/alter2.PNG)    
+![Error](img/tabla8_9.PNG)    
 > En la tabla propgrama podemos ver otra forma de declarar la clave primaria en la misma línea en que definimos el atributo.   
    
       
-![Error](Tarefa3/alter3_4.PNG)         
+![Error](img/alter3_4.PNG)         
    
        
 > --CREATE ASSERTION El_Orzamiento_Incluye_Todo_Lo_Financiado    
@@ -48,7 +48,7 @@
 > --);      
     
        
-![Error](Tarefa3/tablas.PNG)   
+![Error](img/tablas.PNG)   
 > Em esta imagen vemos que están todas las tablas creadas.   
    
 - Ejemplos de situaciones propuesta por el profesor:
