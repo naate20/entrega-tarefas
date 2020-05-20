@@ -1,5 +1,6 @@
 # Tarefa 4
 
-Exemplo de como linkar unha imaxe que se atopa no cartafol `img`:
-
-![Imaxe de exemplo](./img/imaxe-exemplo.png)
+![Error](Tarefa4/inicio_BD.PNG)     
+![Error](Tarefa4/foto2.PNG)    
+![Error](Tarefa4/foto3.PNG)   
+![Error](Tarefa4/foto4.PNG)  
